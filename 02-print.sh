@@ -33,3 +33,4 @@ echo -e \\e[44m Hello in Blue Background Color\\e[0m
 echo -e \\e[45m Hello in Magenta Background Color\\e[0m
 echo -e \\e[46m Hello in Cyan Background Color\\e[0m
 
+echo -e "\e[31m Color in Red, But message in quotes\e[0m"
