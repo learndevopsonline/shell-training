@@ -26,5 +26,10 @@ echo -e \\e[35m Hello in Magenta Color\\e[0m
 echo -e \\e[36m Hello in Cyan Color\\e[0m
 
 
-
+echo -e \\e[41m Hello in Red Background Color\\e[0m
+echo -e \\e[42m Hello in Green Background Color\\e[0m
+echo -e \\e[43m Hello in Yellow Background Color\\e[0m
+echo -e \\e[44m Hello in Blue Background Color\\e[0m
+echo -e \\e[45m Hello in Magenta Background Color\\e[0m
+echo -e \\e[46m Hello in Cyan Background Color\\e[0m
 
