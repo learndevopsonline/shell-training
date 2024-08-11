@@ -8,13 +8,13 @@ echo -e Hello World\\nWelcome to shell training
 echo -e Hello\\t\\tWorld
 
 # (\\e)
-# Colors        Foreground Color ( Font )
-# Red             31
-# Green           32
-# Yellow          33
-# Blue            34
-# Magenta         35
-# Cyan            36
+# Colors        Foreground Color ( Font )     Background Color
+# Red             31                            41
+# Green           32                            42
+# Yellow          33                            43
+# Blue            34                            44
+# Magenta         35                            45
+# Cyan            36                            46
 
 # Syntax : echo -e \\e[COLmMESSAGE\\e[0m
 
